@@ -1,0 +1,7 @@
+venv/
+temp/
+__pycache__/
+*.pyc
+
+helmet-nonhelmet_cnn.h5
+yolov3-custom_7000.weights
